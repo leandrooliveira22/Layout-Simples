@@ -1,0 +1,62 @@
+body{
+    background-color: #f0f0f0;
+}
+form{
+    padding: 50px;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: rgb(177, 175, 175) 1px 2px 2px 2px;
+    text-align: center;
+    margin: 100px;
+    position: relative;
+}
+.pai{
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #777777
+}
+#password{
+    border-radius: 5px;
+    border: 1px solid rgba(119, 119, 119, 0.3);
+    height: 49px;
+    width: 418px; 
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+#password2{
+    border-radius: 5px;
+    border: 1px solid rgba(119, 119, 119, 0.3);
+    height: 49px;
+    width: 418px;
+    margin-top: 15px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+.alt{
+    width: 272px;
+    height: 49px;
+    background: #4AD395;
+    border-radius: 5px;
+    border: 1px solid#4AD395;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 32px;
+}
+.final{
+    width: 272px;
+    height: 49px;
+    background: #4AD395;
+    border-radius: 5px;
+    border: 1px solid#4AD395;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 31px;
+}
+a:hover,a:visited,a:focus,a:active,a{
+    text-decoration: none;
+    color: inherit;
+}

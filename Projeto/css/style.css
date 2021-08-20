@@ -1,0 +1,89 @@
+body{
+    background-color: #f0f0f0;
+}
+
+.apple{
+    padding-bottom: 30px;
+   
+}
+
+.botao1{
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    width: 199px;
+    height: 49px;
+    border: 0px;
+    color: gray;
+    margin: 20px 15px;
+    font-size: 17px;
+}
+.botao2{
+    background-color: #4AD395;
+    border-radius: 5px;
+    width: 199px;
+    height: 49px;
+    border: 0px;
+    color: white;
+    font-size: 17px;
+}
+
+.botao3{
+    background-color: #4AD395;
+    border-radius: 5px;
+    width: 271px;
+    height: 49px;
+    margin: 5px 150px ;
+    border: 0px;
+    color: white;
+    padding: 5px 30px;
+    font-size: 17px;
+}
+#email{
+    width: 402px;
+    height: 49px;
+    left: 240px;
+    top: 310px;
+    box-sizing: border-box;
+    border: 1px solid #4AD395;
+    border-radius: 5px;
+    padding-left: 50px;
+}
+#password{
+    width: 402px;
+    height: 49px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgba(187, 186, 186, 0.65);
+    padding-left: 50px;
+}
+.card-group{
+    border-radius: 2px;
+    text-align: center;
+    padding: 10px;
+}
+.card-group>input{
+    width: 393px;
+    padding: 4px;
+}
+
+.login{
+    padding: 50px;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: rgb(177, 175, 175) 1px 2px 2px 2px;
+    text-align: center;
+    margin: 100px;
+    position: relative;
+}
+
+.senha{
+    font-family: sans-serif;
+    font-size: 10px;
+    margin-left: 176px;
+    color: #4AD395;
+}
+
+a:hover,a:visited,a:focus,a:active,a{
+    text-decoration: none;
+    color: inherit;
+}
